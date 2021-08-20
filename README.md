@@ -1,4 +1,2 @@
 # README
-sample_appにRails 10章を加えたものにAI用の編集を加えたもの
-
-これをテンプレートにする
+sample_appにRails 10章、AI用の編集、ActiveStorageを加えたもの
